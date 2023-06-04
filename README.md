@@ -6,7 +6,7 @@
 `善于规划全局 具有强大洞察力 藏匿人群却能够发挥重大作用 把学校制度玩明白了且极度懂得利用资源与学习方法与思想结构 喜欢探究人性与广义上的哲学 `
 
 `唯一缺点是基础极差）`
-
+# 联系方式
 [![联系方式](https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/ulery)
 
 # 少年会有闪耀时＼(`Δ’)／
