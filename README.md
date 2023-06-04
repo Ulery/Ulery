@@ -7,7 +7,7 @@
 
 `唯一缺点是基础极差）`
 
-[！[联系方式]（https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000）[]（t.me/ulery）
+[！[联系方式]（https://img.shields.io/badge/Telegram-@ZGQinc-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000）]（t.me/ulery）
 
 # 少年会有闪耀时＼(`Δ’)／
 <!--
